@@ -1,6 +1,19 @@
 [
   {
-    "team": "El Barrio",
+    "team": {
+      "id": "el-barrio",
+      "name": "El Barrio",
+      "image": "/el-barrio.svg",
+      "url": "https://kingsleague.pro/team/el-barrio/",
+      "president": "Adri Contreras",
+      "coach": "Juan Arroita",
+      "socialNetworks": [
+        "https://www.instagram.com/elbarrioklk/?hl=es",
+        "https://www.tiktok.com/@adricontreras4",
+        "https://twitter.com/elbarrioklk_",
+        "https://www.tiktok.com/@elbarrioklk"
+      ]
+    },
     "victories": 1,
     "defeats": 0,
     "goalsScored": 5,
@@ -9,7 +22,17 @@
     "redCards": 0
   },
   {
-    "team": "Ultimate Móstoles",
+    "team": {
+      "id": "ultimate-mostoles",
+      "name": "Ultimate Móstoles",
+      "image": "/ultimate-mostoles.svg",
+      "url": "https://kingsleague.pro/team/ultimate-mostoles/",
+      "president": "DjMaRiiO",
+      "coach": "Nacho Castro",
+      "socialNetworks": [
+        "https://m.youtube.com/user/DjMaRiiO/videos"
+      ]
+    },
     "victories": 1,
     "defeats": 0,
     "goalsScored": 5,
@@ -18,7 +41,20 @@
     "redCards": 0
   },
   {
-    "team": "Los Troncos FC",
+    "team": {
+      "id": "los-troncos-fc",
+      "name": "Los Troncos FC",
+      "image": "/los-troncos.png",
+      "url": "https://kingsleague.pro/team/los-troncos-fc/",
+      "president": "Perxitaa",
+      "coach": "Pol Font",
+      "socialNetworks": [
+        "https://www.twitch.tv/perxitaa",
+        "https://www.instagram.com/troncosfc.oficial/",
+        "https://twitter.com/lostroncosfc_/",
+        "https://www.tiktok.com/@lostroncosfc_"
+      ]
+    },
     "victories": 1,
     "defeats": 0,
     "goalsScored": 5,
@@ -27,7 +63,20 @@
     "redCards": 0
   },
   {
-    "team": "1K FC",
+    "team": {
+      "id": "1k",
+      "name": "1K FC",
+      "image": "/1k.svg",
+      "url": "https://kingsleague.pro/team/1k/",
+      "president": "Iker Casillas",
+      "coach": "Julio García Mera",
+      "socialNetworks": [
+        "https://www.instagram.com/1kfutbolclub/?hl=es",
+        "https://twitter.com/1kfutbolclub",
+        "https://www.youtube.com/c/IkerCasillas",
+        "https://www.tiktok.com/@1kfutbolclub"
+      ]
+    },
     "victories": 1,
     "defeats": 0,
     "goalsScored": 4,
@@ -36,7 +85,17 @@
     "redCards": 0
   },
   {
-    "team": "Saiyans FC",
+    "team": {
+      "id": "saiyans-fc",
+      "name": "Saiyans FC",
+      "image": "/saiyans-fc.svg",
+      "url": "https://kingsleague.pro/team/saiyans-fc/",
+      "president": "TheGrefg",
+      "coach": "Daniel Romo",
+      "socialNetworks": [
+        "https://www.twitch.tv/thegrefg"
+      ]
+    },
     "victories": 1,
     "defeats": 0,
     "goalsScored": 4,
@@ -45,7 +104,17 @@
     "redCards": 0
   },
   {
-    "team": "Kunisports",
+    "team": {
+      "id": "kunisports",
+      "name": "Kunisports",
+      "image": "/kunisports.svg",
+      "url": "https://kingsleague.pro/team/kunisports/",
+      "president": "Kun Agüero",
+      "coach": "Martín Posse",
+      "socialNetworks": [
+        "https://www.twitch.tv/slakun10"
+      ]
+    },
     "victories": 1,
     "defeats": 0,
     "goalsScored": 2,
@@ -54,7 +123,20 @@
     "redCards": 0
   },
   {
-    "team": "Jijantes FC",
+    "team": {
+      "id": "jijantes-fc",
+      "name": "Jijantes FC",
+      "image": "/jijantes-fc.svg",
+      "url": "https://kingsleague.pro/team/jijantes-fc/",
+      "president": "Gerard Romero",
+      "coach": "Marc Carmona",
+      "socialNetworks": [
+        "https://www.twitch.tv/gerardromero",
+        "https://www.instagram.com/jijantesfc/?hl=es",
+        "https://twitter.com/JijantesFC?s=20&t=40PQRh7lXf2HVdUs1pe-9w",
+        "https://www.tiktok.com/@jijantesfutbolclub"
+      ]
+    },
     "victories": 0,
     "defeats": 1,
     "goalsScored": 1,
@@ -63,7 +145,18 @@
     "redCards": 0
   },
   {
-    "team": "Porcinos FC",
+    "team": {
+      "id": "porcinos-fc",
+      "name": "Porcinos FC",
+      "image": "/porcinos-fc.svg",
+      "url": "https://kingsleague.pro/team/porcinos-fc/",
+      "president": "Ibai Llanos",
+      "coach": "Juvenal Edjogo-Owono",
+      "socialNetworks": [
+        "https://www.twitch.tv/ibai",
+        "https://twitter.com/FCPorcinos"
+      ]
+    },
     "victories": 0,
     "defeats": 1,
     "goalsScored": 2,
@@ -72,7 +165,20 @@
     "redCards": 0
   },
   {
-    "team": "Rayo de Barcelona",
+    "team": {
+      "id": "rayo-barcelona",
+      "name": "Rayo de Barcelona",
+      "image": "/rayo-barcelona.svg",
+      "url": "https://kingsleague.pro/team/rayo-barcelona/",
+      "president": "Spursito",
+      "coach": "JuanluDBZ",
+      "socialNetworks": [
+        "https://www.twitch.tv/spursito",
+        "https://www.instagram.com/rayodebarcelona/?hl=es",
+        "https://twitter.com/RayodeBarcelona",
+        "https://www.tiktok.com/@rayodebarcelona"
+      ]
+    },
     "victories": 0,
     "defeats": 1,
     "goalsScored": 2,
@@ -81,7 +187,17 @@
     "redCards": 0
   },
   {
-    "team": "XBUYER TEAM",
+    "team": {
+      "id": "xbuyer-team",
+      "name": "XBUYER TEAM",
+      "image": "/xbuyer-team.svg",
+      "url": "https://kingsleague.pro/team/xbuyer-team/",
+      "president": "Hnos. Buyer",
+      "coach": "Victor González",
+      "socialNetworks": [
+        "https://www.youtube.com/xbuyer"
+      ]
+    },
     "victories": 0,
     "defeats": 1,
     "goalsScored": 2,
@@ -90,7 +206,17 @@
     "redCards": 0
   },
   {
-    "team": "Aniquiladores FC",
+    "team": {
+      "id": "aniquiladores-fc",
+      "name": "Aniquiladores FC",
+      "image": "/aniquiladores.svg",
+      "url": "https://kingsleague.pro/team/Aniquiladores%20FC/",
+      "president": "Juan Guarnizo",
+      "coach": "Sergio Verdirame",
+      "socialNetworks": [
+        "https://www.twitch.tv/juansguarnizo"
+      ]
+    },
     "victories": 0,
     "defeats": 1,
     "goalsScored": 1,
@@ -99,7 +225,18 @@
     "redCards": 0
   },
   {
-    "team": "PIO FC",
+    "team": {
+      "id": "pio-fc",
+      "name": "PIO FC",
+      "image": "/pio.svg",
+      "url": "https://kingsleague.pro/team/pio-fc/",
+      "president": "Rivers",
+      "coach": "Gerardo Torrado",
+      "socialNetworks": [
+        "https://www.twitch.tv/rivers_gg",
+        "https://twitter.com/PIO_FC"
+      ]
+    },
     "victories": 0,
     "defeats": 1,
     "goalsScored": 0,
